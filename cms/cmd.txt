@@ -1,0 +1,13 @@
+nest g controller controllers/products
+
+whitouut folders
+
+nest g controller controllers/products --flat
+
+Services
+
+nest g s services/products
+
+pies
+
+nest g pipe common/parse-int
